@@ -1,0 +1,34 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+.navbar{
+    height: 96px;
+    width: 100%;
+     border-top: 4px solid #4EA819 ;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+    font-size: 15px;
+ font-weight: bold;
+    
+    display: flex;
+    justify-content: center;
+  align-items: center;
+  
+}
+
+.active {
+    color: #4EA819 ;
+    padding: 12px 
+    
+   
+  
+  }
+  .default {
+    color: #475056;
+    text-decoration: none;
+    padding: 12px 
+   
+
+  }
