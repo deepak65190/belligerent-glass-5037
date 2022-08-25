@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    }
+
+.bigDiv{
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+
+   
+ 
+}
+.allUL{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    
+}
+.socialMedia{
+   
+    background-color: #EBECEC;
+    height: 148px;
+    margin-top: 50px;
+}
+.copyRight{
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+background-color: #D6D8D9;
+height: 52px;
+}
+.companyF{
+font-weight: 550;
+color: #333c43;
+font-size: 14px;
+letter-spacing: 0.5px;
+padding:  0px 80px ;
+margin-top: 50px;
+
+}
+.homeF{
+    font-size: 15px;
+    margin-top: 15px;
+   color: #4D5056;
+   margin-left: 80px;
+} 
+.ulName{
+    list-style-type: none; 
+}
