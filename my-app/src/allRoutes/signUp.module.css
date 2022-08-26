@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    }
+    .freeH1{
+        font-size: 37px;
+        color: #333c43;
+        text-align: center;
+        margin-top: 60px;
+    }
+    .startT{
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 30px;
+        font-size: 14px;
+        color: #333c43;
+    }
+    .inputUp{
+        display: flex;
+        width:340px ;
+      padding: 9px 0px;
+      resize: none;
+      outline:none;
+      margin-bottom: 10px;
+        
+    }
+    
+    .centrFormUp{
+        width: 25%;
+        display: block;
+        margin: auto;
+  
+        
+    }
+    .labelUp{
+        font-size: 14px;
+        color: #70777B;
+        margin-bottom: 5px;
+    }
+    .btnUp{
+        width: 340px;
+        padding: 9px 0px;
+        background-color: #4EA819;
+        border: none;
+        border-radius: 3px;
+        color: white;
+        margin-bottom: 30px;
+        cursor: pointer;
+    }
+    .errUp {
+        text-align: center;
+        color: red;
+    }
+    .successUp{
+        text-align: center;
+        color: gray
+    }
+    .termsUp{
+       
+        text-align: center;
+        color: #70777B;
+        cursor: pointer;
+       
+    }
+    .policyUp{
+        color: #475056;
+        text-decoration: underline;
+        font-weight: bold;
+        text-align: center;
+        cursor: pointer;
+        margin-bottom: 5px;
+    }
+  

@@ -45,6 +45,51 @@ margin-top: 50px;
    color: #4D5056;
    margin-left: 80px;
 } 
+.homeF:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
 .ulName{
     list-style-type: none; 
+}
+.copyRightF{
+    width: 100%;
+    height: 52px;
+    display: flex;
+    justify-content: center;
+  align-items: center;
+  gap: 750px;
+  background-color: #D6D8D9;
+
+}
+.copywrite{
+color: #475056;
+font-size: 12px;
+}
+.group{
+    color: #5C6369;
+    font-size: 12px;
+}
+.draught{
+    color: #5C6369;
+  font-size: 14px;
+}
+
+.logStore{
+    width: 60%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:600px;
+    
+   
+
+}
+.img-logo{
+    width: 10%;
+    height: 20%;
+}
+.adrodLogo{
+    background-color: red;
 }

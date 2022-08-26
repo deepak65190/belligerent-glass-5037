@@ -11,10 +11,10 @@ font-family: sans-serif;
     box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
     font-size: 15px;
  font-weight: bold;
-    
     display: flex;
     justify-content: center;
   align-items: center;
+ 
   
 }
 
@@ -31,4 +31,12 @@ font-family: sans-serif;
     padding: 12px 
    
 
+  }
+  .webLogo{
+   width: 30%;
+   
+   
+  }
+  .webLogo:hover{
+    cursor: pointer;
   }
