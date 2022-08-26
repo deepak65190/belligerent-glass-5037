@@ -1,6 +1,8 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import style from "./navbar.module.css"
+import l from "./logo-h.png"
+
 function Navbar(){
     const links =[
         {path:"/" , title:"DeskTime"} ,
@@ -17,7 +19,10 @@ function Navbar(){
     ]
     return(
     <>
-     <div className={style.navbar}>
+    <div className={style.navbar}>
+      
+    
+     <div className={style.webLogo}><img src={l} alt="loding" /></div>
       {links.map((link) => (
         <NavLink
          
@@ -32,6 +37,7 @@ function Navbar(){
       ))}
      
     </div>
+   
     </>
     )
 }
