@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import Demo from "./demo"
-import Home from "./home"
+
 import About  from "./about";
 import Features from "./features" ;
 import  Price from "./pricing" ;
@@ -14,7 +14,7 @@ function AllRoutes(){
         <>
         <div>
             <Routes>
-                <Route path="/" element={<Home/>}/>
+               
                 <Route path="/demo" element={<Demo/>}/>
                 <Route path="/features" element={<Features/>}/>
                 <Route path="/price" element={<Price/>}/>

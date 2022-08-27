@@ -5,7 +5,7 @@ import l from "./logo-h.png"
 
 function Navbar(){
     const links =[
-        {path:"/" , title:"DeskTime"} ,
+      
         {path:"/demo" , title:"Demo"} ,
         {path:"/features" , title:"Features"} ,
         {path:"/price" , title:"Pricing"} ,
