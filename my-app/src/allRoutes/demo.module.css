@@ -70,12 +70,12 @@ border: .5px solid gray;
     height: 350px;
 margin-top: 15%;
 margin-bottom: 15%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin: auto;
 }
 .smalDlws>div{
     width: 25%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     
     
 }
