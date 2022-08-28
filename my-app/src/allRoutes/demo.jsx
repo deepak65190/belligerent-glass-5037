@@ -29,12 +29,21 @@ function Demo(){
                 
                 <div className={style.divS}>
                     <img src="https://desktime.com/assets/img/demo/live-demo.svg?v2" alt="" />
+                    <p>Live demo</p>
+                    <p>Sign up for a 1:1 demo call with our product expert, take a personalized tour and get answers to any questions you might have.</p>
+                    <button>BOOK DEMO</button>
                 </div>
                 <div className={style.divS}>
                     <img src="https://desktime.com/assets/img/demo/webinars.svg?v2" alt="" />
+                    <p>Webinars</p>
+                    <p>Watch on-demand webinars and tutorials to make sure you get the most out of all the features DeskTime has to offer.</p>
+                    <button>WATCH NOW</button>
                 </div>
                 <div className={style.divS}>
                     <img src="https://desktime.com/assets/img/demo/sign-up.svg?v2" alt="" />
+                    <p>Sign Up</p>
+                    <p>Find out what time tracking means, add team members, and test the project feature for effective workflow management.</p>
+                    <button>START FREE TRIAL</button>
                 </div>
             </div>
         </div>
